@@ -97,3 +97,4 @@ C:\mycode\asp.net\animals-api\animals-api\obj\Debug\net8.0\refint\animals-api.dl
 C:\mycode\asp.net\animals-api\animals-api\obj\Debug\net8.0\animals-api.pdb
 C:\mycode\asp.net\animals-api\animals-api\obj\Debug\net8.0\animals-api.genruntimeconfig.cache
 C:\mycode\asp.net\animals-api\animals-api\obj\Debug\net8.0\ref\animals-api.dll
+C:\mycode\asp.net\animals-api\animals-api\obj\Debug\net8.0\animals-api.sourcelink.json
