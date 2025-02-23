@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\animals-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\animals\\repository\\animalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|solutionrelative:animals-api\\animals\\repository\\animalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\animals\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|solutionrelative:animals-api\\animals\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\animals\\dtos\\animalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|solutionrelative:animals-api\\animals\\dtos\\animalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\animals\\dtos\\animalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|solutionrelative:animals-api\\animals\\dtos\\animalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|solutionrelative:animals-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\animals\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|solutionrelative:animals-api\\animals\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\animals\\repository\\animalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|solutionrelative:animals-api\\animals\\repository\\animalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\animals\\repository\\ianimalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|solutionrelative:animals-api\\animals\\repository\\ianimalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\animals\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|solutionrelative:animals-api\\animals\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\animals\\mapper\\animalsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|solutionrelative:animals-api\\animals\\mapper\\animalsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45BC15D7-151A-4294-B77E-5C3565CE2F3A}|animals-api\\animals-api.csproj|c:\\mycode\\asp.net\\animals-api\\animals-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,24 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "AnimalResponse.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Dtos\\AnimalResponse.cs",
+              "RelativeDocumentMoniker": "animals-api\\Animals\\Dtos\\AnimalResponse.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Dtos\\AnimalResponse.cs",
+              "RelativeToolTip": "animals-api\\Animals\\Dtos\\AnimalResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:00:33.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Dtos\\AnimalRequest.cs",
+              "RelativeDocumentMoniker": "animals-api\\Animals\\Dtos\\AnimalRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Dtos\\AnimalRequest.cs",
+              "RelativeToolTip": "animals-api\\Animals\\Dtos\\AnimalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:00:21.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AnimalRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Repository\\AnimalRepo.cs",
               "RelativeDocumentMoniker": "animals-api\\Animals\\Repository\\AnimalRepo.cs",
               "ToolTip": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Repository\\AnimalRepo.cs",
               "RelativeToolTip": "animals-api\\Animals\\Repository\\AnimalRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T17:38:13.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IAnimalRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Repository\\IAnimalRepo.cs",
               "RelativeDocumentMoniker": "animals-api\\Animals\\Repository\\IAnimalRepo.cs",
@@ -84,20 +122,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AnimalController.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Controllers\\AnimalController.cs",
               "RelativeDocumentMoniker": "animals-api\\Animals\\Controllers\\AnimalController.cs",
               "ToolTip": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Controllers\\AnimalController.cs",
               "RelativeToolTip": "animals-api\\Animals\\Controllers\\AnimalController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T17:20:40.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "AnimalsMappingProfile.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Mapper\\AnimalsMappingProfile.cs",
+              "RelativeDocumentMoniker": "animals-api\\Animals\\Mapper\\AnimalsMappingProfile.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Mapper\\AnimalsMappingProfile.cs",
+              "RelativeToolTip": "animals-api\\Animals\\Mapper\\AnimalsMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:03:14.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Animals\\Models\\Animal.cs",
               "RelativeDocumentMoniker": "animals-api\\Animals\\Models\\Animal.cs",
@@ -110,20 +161,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Program.cs",
               "RelativeDocumentMoniker": "animals-api\\Program.cs",
               "ToolTip": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Program.cs",
               "RelativeToolTip": "animals-api\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwC0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T15:19:02.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\appsettings.json",
               "RelativeDocumentMoniker": "animals-api\\appsettings.json",
@@ -131,12 +182,11 @@
               "RelativeToolTip": "animals-api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T15:18:54.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T15:18:54.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CreateSchema.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Data\\Migrations\\CreateSchema.cs",
               "RelativeDocumentMoniker": "animals-api\\Data\\Migrations\\CreateSchema.cs",
@@ -144,12 +194,11 @@
               "RelativeToolTip": "animals-api\\Data\\Migrations\\CreateSchema.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T15:10:21.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T15:10:21.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "animals-api.csproj",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\animals-api.csproj",
               "RelativeDocumentMoniker": "animals-api\\animals-api.csproj",
@@ -161,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "animals-api",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\animals-api.csproj",
               "RelativeDocumentMoniker": "animals-api\\animals-api.csproj",
@@ -172,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "animals-api.http",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\animals-api.http",
               "RelativeDocumentMoniker": "animals-api\\animals-api.http",
@@ -180,12 +229,11 @@
               "RelativeToolTip": "animals-api\\animals-api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-03T15:18:53.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T15:18:53.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\animals-api\\animals-api\\Data\\Migrations\\AppDbContext.cs",
               "RelativeDocumentMoniker": "animals-api\\Data\\Migrations\\AppDbContext.cs",
@@ -193,8 +241,7 @@
               "RelativeToolTip": "animals-api\\Data\\Migrations\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T15:10:43.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T15:10:43.419Z"
             }
           ]
         }

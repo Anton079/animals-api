@@ -17,6 +17,15 @@ namespace animals_api.Animals.Controllers
 
         [HttpGet("all")]
 
+        public async Task<ActionResult<List<Animal>>> GetAnimalAsync()
+        {
+            var animals = await _animalRepo.GetAnimalsAsync();
+
+            return Ok(animals);
+        }
+
+        [HttpPost("add")]
+
         public async Task<ActionResult<List<Animal>>> GetAnimalsAsync()
         {
             var animal = await _animalRepo.GetAnimalsAsync();
